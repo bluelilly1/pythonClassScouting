@@ -1,1 +1,1 @@
-# pythonClassScouting
+# pythonClass
